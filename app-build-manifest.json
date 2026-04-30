@@ -1,0 +1,53 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-57586abe07dbe25a.js",
+      "static/chunks/fd9d1056-d9feceabf46328f7.js",
+      "static/chunks/117-b1d78db0bd7ac077.js",
+      "static/chunks/main-app-43e22531426f5039.js",
+      "static/chunks/app/_not-found/page-0607fd75f6effd72.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-57586abe07dbe25a.js",
+      "static/chunks/fd9d1056-d9feceabf46328f7.js",
+      "static/chunks/117-b1d78db0bd7ac077.js",
+      "static/chunks/main-app-43e22531426f5039.js",
+      "static/css/19a57f2ec0c9d455.css",
+      "static/chunks/86-7946333c45826c0d.js",
+      "static/chunks/872-d851db2a2a22beed.js",
+      "static/chunks/app/layout-890b21d2499583e6.js"
+    ],
+    "/campus/page": [
+      "static/chunks/webpack-57586abe07dbe25a.js",
+      "static/chunks/fd9d1056-d9feceabf46328f7.js",
+      "static/chunks/117-b1d78db0bd7ac077.js",
+      "static/chunks/main-app-43e22531426f5039.js",
+      "static/chunks/86-7946333c45826c0d.js",
+      "static/chunks/app/campus/page-f8fd7632afb11cb2.js"
+    ],
+    "/contact/page": [
+      "static/chunks/webpack-57586abe07dbe25a.js",
+      "static/chunks/fd9d1056-d9feceabf46328f7.js",
+      "static/chunks/117-b1d78db0bd7ac077.js",
+      "static/chunks/main-app-43e22531426f5039.js",
+      "static/chunks/86-7946333c45826c0d.js",
+      "static/chunks/app/contact/page-565771816f6264af.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-57586abe07dbe25a.js",
+      "static/chunks/fd9d1056-d9feceabf46328f7.js",
+      "static/chunks/117-b1d78db0bd7ac077.js",
+      "static/chunks/main-app-43e22531426f5039.js",
+      "static/chunks/86-7946333c45826c0d.js",
+      "static/chunks/app/page-25d1c23a82f33f55.js"
+    ],
+    "/faculty/page": [
+      "static/chunks/webpack-57586abe07dbe25a.js",
+      "static/chunks/fd9d1056-d9feceabf46328f7.js",
+      "static/chunks/117-b1d78db0bd7ac077.js",
+      "static/chunks/main-app-43e22531426f5039.js",
+      "static/chunks/86-7946333c45826c0d.js",
+      "static/chunks/app/faculty/page-a5419dc2a76212a6.js"
+    ]
+  }
+}
